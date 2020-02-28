@@ -9,7 +9,10 @@
                 "status": "success",
                 "vat": "7",
                 "fee": "20",
-                "amount": "20,000.00"
+                "amount": "20,000.00",
+                "sender": "Mr. Kitty",
+                "receiver": "Mr. Pojpaj",
+                "channel": "xxxxxxxxx"
             },
             {
                 "transaction_id": "CA12345678",
@@ -20,7 +23,10 @@
                 "status": "success",
                 "vat": "7",
                 "fee": "50",
-                "amount": "10,000.00"
+                "amount": "10,000.00",
+                "sender": "Mr. Kitty",
+                "receiver": "Mr. Pojpaj",
+                "channel": "xxxxxxxxx"
             },
             {
                 "transaction_id": "BD12324568",
@@ -31,7 +37,10 @@
                 "status": "success",
                 "vat": "7",
                 "fee": "40",
-                "amount": "25,000.00"
+                "amount": "25,000.00",
+                "sender": "Mr. Kitty",
+                "receiver": "Mr. Pojpaj",
+                "channel": "xxxxxxxxx"
             },
             {
                 "transaction_id": "KE12321678",
@@ -42,7 +51,10 @@
                 "status": "success",
                 "vat": "7",
                 "fee": "200",
-                "amount": "30,000.00"
+                "amount": "30,000.00",
+                "sender": "Mr. Kitty",
+                "receiver": "Mr. Pojpaj",
+                "channel": "xxxxxxxxx"
             }
         ]
 }
