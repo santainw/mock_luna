@@ -1,7 +1,5 @@
 {
-    "transfer": {
-        "code": "200",
-        "data": [
+    "transfer": [
             {
                 "transaction_id": "SA12345678",
                 "customer_id": "M14345678",
@@ -35,5 +33,4 @@
                 "status": "success"
             }
         ]
-    }
 }
